@@ -2,17 +2,18 @@
 My first repository
 
 **These are the skills that I currently have in Design:**:
-AfterEffects
-Dreamweaver
-Photoshop
-Illustrator
-InDesign
-Acrobat
-XD
-Dimension
+*v AfterEffects
+*v Dreamweaver
+*v Photoshop
+*v Illustrator
+*v InDesign
+*v Acrobat
+*v XD
+*v Dimension
 HTML5
-CSS Microsoft Office Suite (Word, Excel, PowerPoint,  Outlook/Exchange)
-Keynote
-Trello
-harePoint
-Dropbox, Jira*
+*v CSS Microsoft Office Suite (Word, Excel, PowerPoint,  Outlook/Exchange)
+*v Keynote
+*v Trello
+*v SharePoint
+*v Dropbox
+*v Jira*
