@@ -16,4 +16,4 @@ My first repository
 * Trello
 * SharePoint
 * Dropbox
-* Jira*
+* Jira
