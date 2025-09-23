@@ -1,7 +1,7 @@
 # My-first-repository
 My first repository
 
-**These are the skills that I currently have in De
+**These are the skills that I currently have in Design:
 * AfterEffects
 * Dreamweaver
 * Photoshop
